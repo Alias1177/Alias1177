@@ -15,9 +15,8 @@ I'm Golang Developer
 ---
 [![](https://visitcount.itsvg.in/api?id=Alias1177&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://media.discordapp.net/attachments/1175726801306501160/1207001191482695760/image.png" alt="LeetCode Stats">
-</div>
+![Image 16 02 25 at 18 48](https://github.com/user-attachments/assets/4e9489c8-a057-4166-b168-70bcc6ed29db)
+
 
 ![Frieren Sip](https://media1.tenor.com/m/FkELNdTE-l8AAAAd/frieren-sip-frieren.gif)
 
