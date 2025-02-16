@@ -21,8 +21,8 @@ I'm Golang Developer
 </div>
 
 <p align="center">
-  <a href="https://github.com/[Alias1177]">
-    <img src="https://github-readme-stats.vercel.app/api?username=[Alias1177]&show_icons=true&theme=radical" alt="GitHub Stats" >
+  <a href="https://github.com/Alias1177">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alias1177&show_icons=true&theme=radical" alt="GitHub Stats" >
   </a>
 </p>
 
