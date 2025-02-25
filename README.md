@@ -17,7 +17,7 @@ I'm Golang Developer
 
 ![Image 16 02 25 at 18 48](https://github.com/user-attachments/assets/4e9489c8-a057-4166-b168-70bcc6ed29db)
 
-![LeetCode Stats](https://leetcode-readme-stats.vercel.app/api?username=Alias1177&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Alias1177?theme=dark&font=Monospace)
 
 ![Frieren Sip](https://media1.tenor.com/m/FkELNdTE-l8AAAAd/frieren-sip-frieren.gif)
 
