@@ -15,8 +15,9 @@ I'm Golang Developer
 ---
 [![](https://visitcount.itsvg.in/api?id=Alias1177&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img width="1132" alt="Screenshot 2025-05-17 at 15 25 00" src="https://github.com/user-attachments/assets/d9df5c02-3a6a-4790-ab90-3cfc3d8299d9" />
 
-<img width="1248" alt="Screenshot 2025-05-07 at 15 37 03" src="https://github.com/user-attachments/assets/1d81d539-e291-4631-b0ca-d77edc288980" />
+
 
 
 ![Frieren Sip](https://media1.tenor.com/m/FkELNdTE-l8AAAAd/frieren-sip-frieren.gif)
