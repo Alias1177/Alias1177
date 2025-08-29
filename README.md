@@ -15,7 +15,7 @@ I'm Golang Developer
 ---
 [![](https://visitcount.itsvg.in/api?id=Alias1177&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img width="1132" alt="Screenshot 2025-05-17 at 15 25 00" src="https://github.com/user-attachments/assets/d9df5c02-3a6a-4790-ab90-3cfc3d8299d9" />
+
 
 
 
@@ -24,6 +24,9 @@ I'm Golang Developer
 
 
 <picture>
+<img width="1150" height="385" alt="Screenshot 2025-08-29 at 14 03 12" src="https://github.com/user-attachments/assets/417fe149-b611-403e-ba45-ffefa4628974" />
+
+  
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
