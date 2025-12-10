@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Golang Developer
+I'm Go/Rust Developer
 
 
 ## 🌐 Socials:
